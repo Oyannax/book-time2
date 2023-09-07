@@ -1,54 +1,67 @@
 [
     {
+        "id": 1,
         "title": "L'Étranger",
         "author": "Albert Camus",
         "year": 1942,
         "publisher": "Gallimard",
         "country": "Algérie française",
         "language": "Français",
-        "pages": 176,
+        "pages": 192,
         "summary": "Quand la sonnerie a encore retenti, que la porte du box s'est ouverte, c'est le silence de la salle qui est monté vers moi, le silence, et cette singulière sensation que j'ai eue lorsque j'ai constaté que le jeune journaliste avait détourné les yeux. Je n'ai pas regardé du côté de Marie. Je n'en ai pas eu le temps parce que le président m'a dit dans une forme bizarre que j'aurais la tête tranchée sur une place publique au nom du peuple français...",
         "image": "img/l-etranger.jpg",
-        "link": "https://www.fnac.com/a129310/Albert-Camus-L-Etranger#omnsearchpos=3"
+        "link": "https://www.fnac.com/a129308/Albert-Camus-L-Etranger#omnsearchpos=1"
     },
     {
+        "id": 2,
+        "title": "Orgueil et Préjugés",
+        "author": "Jane Austen",
+        "year": 1813,
+        "publisher": "Gallimard",
+        "country": "Angleterre",
+        "language": "Anglais",
+        "pages": 480,
+        "summary": "Lorsque Elizabeth Bennett rencontre Darcy au bal de Meryton, il lui déplaît immédiatement. Pour qui se prend-il, ce jeune homme arrogant, qui refuse de danser avec elle et se permet de mépriser sa famille ? Pour se consoler de cet affront, Elizabeth se tourne vers Wickham, séduisant officier de marine. S'engage alors la ronde des sentiments : dans ce microcosme étriqué, les promesses se font et se défont, les rumeurs circulent à la vitesse du vent, les trahisons sont amères et les premières impressions souvent trompeuses... Humour, légèreté, ambiance virevoltante : le plus célèbre des romans de Jane Austen (1813), mené tambour battant, se lit le sourire aux lèvres. Avec une impitoyable ironie, la romancière traque l'hypocrisie, pourfend le ridicule et se moque allègrement des conventions. Aussi libre, drôle et impertinente qu'elle, son héroïne mène la danse.",
+        "image": "img/orgueil-et-prejuges.jpg",
+        "link": "https://www.fnac.com/a1971007/Jane-Austen-Orgueil-et-prejuges"
+    },
+    {
+        "id": 3,
         "title": "",
         "author": "",
-        "year": "",
+        "year": ,
+        "publisher": "",
         "country": "",
         "language": "",
-        "pages": "",
+        "pages": ,
+        "summary": "",
         "image": "",
         "link": ""
     },
     {
+        "id": 4,
         "title": "",
         "author": "",
-        "year": "",
+        "year": ,
+        "publisher": "",
         "country": "",
         "language": "",
-        "pages": "",
+        "pages": ,
+        "summary": "",
         "image": "",
         "link": ""
     },
     {
+        "id": 5,
         "title": "",
         "author": "",
-        "year": "",
+        "year": ,
+        "publisher": "",
         "country": "",
         "language": "",
-        "pages": "",
+        "pages": ,
+        "summary": "",
         "image": "",
         "link": ""
     },
-    {
-        "title": "",
-        "author": "",
-        "year": "",
-        "country": "",
-        "language": "",
-        "pages": "",
-        "image": "",
-        "link": ""
-    }
 ]
