@@ -19,7 +19,7 @@
         "author": "Jane Austen",
         "genre": "Roman",
         "year": 1813,
-        "country": "Angleterre",
+        "country": "Royaume-Uni",
         "language": "Anglais",
         "publisher": "Gallimard",
         "pages": 480,
@@ -29,7 +29,10 @@
     },
     {
         "id": 3,
-        "title": "Les androïdes rêvent-ils de moutons électriques ?",
+        "title": [
+            "Blade Runner",
+            "Les androïdes rêvent-ils de moutons électriques ?"
+        ],
         "author": "Philip K. Dick",
         "genre": [
             "Roman",
@@ -63,30 +66,38 @@
     },
     {
         "id": 5,
-        "title": "",
-        "author": "",
-        "genre": "",
-        "year": ,
-        "country": "",
-        "language": "",
-        "publisher": "",
-        "pages": ,
-        "summary": "",
-        "image": "",
-        "link": ""
+        "title": "Le Dernier Jour d'un condamné",
+        "author": "Victor Hugo",
+        "genre": [
+            "Roman",
+            "Roman à thèse"
+        ],
+        "year": 1829,
+        "country": "France",
+        "language": "Français",
+        "publisher": "Gallimard",
+        "pages": 208,
+        "summary": "Victor Hugo nous fait entrer dans la tête d'un condamné à mort qui attend son exécution. On ignore qui il est, quel crime il a commis. Car l'auteur ne veut pas débattre mais montrer l'horreur et l'absurdité de la situation. Son texte a une telle puissance de suggestion que le lecteur, s'identifiant au narrateur, partage avec lui l'angoisse et les vaines espérances. Réquisitoire le plus véhément jamais prononcé contre la peine de mort, ce roman est aussi une admirable leçon d'écriture et d'humanité.",
+        "image": "img/le-dernier-jour-d-un-condamne.jpg",
+        "link": "https://www.fnac.com/a10136839/Victor-Hugo-Le-Dernier-Jour-d-un-Condamne#omnsearchpos=1"
     },
     {
         "id": 6,
-        "title": "",
-        "author": "",
-        "genre": "",
-        "year": ,
-        "country": "",
-        "language": "",
-        "publisher": "",
-        "pages": ,
-        "summary": "",
-        "image": "",
-        "link": ""
-    },
+        "title": "Le Meilleur des mondes",
+        "author": "Aldous Huxley",
+        "genre": [
+            "Roman",
+            "Science-fiction",
+            "Anticipation",
+            "Dystopie"
+        ],
+        "year": 1932,
+        "country": "Royaume-Uni",
+        "language": "Anglais",
+        "publisher": "Pocket",
+        "pages": 320,
+        "summary": "Voici près d'un siècle, dans d'étourdissantes visions, Aldous Huxley imagine une civilisation future jusque dans ses rouages les plus surprenants : un État Mondial, parfaitement hiérarchisé, a cantonné les derniers humains « sauvages » dans des réserves. La culture in vitro des fœtus a engendré le règne des « Alphas », génétiquement déterminés à être l'élite dirigeante. Les castes inférieures, elles, sont conditionnées pour se satisfaire pleinement de leur sort. Dans cette société où le bonheur est loi, famille, monogamie, sentiments sont bannis. Le meilleur des mondes est possible. Aujourd'hui, il nous paraît même familier...",
+        "image": "img/le-meilleur-des-mondes.jpg",
+        "link": "https://www.fnac.com/a10919868/Aldous-Huxley-Le-meilleur-des-mondes#omnsearchpos=1"
+    }
 ]
