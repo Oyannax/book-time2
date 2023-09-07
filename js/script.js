@@ -25,4 +25,12 @@ function createBookElement(book) {
     return bookElement;
 }
 
-fetchBooksData('datas/books.json');
+// Display books
+function displayBooks(books) {
+    for (const book of books) {
+        document.getElementById('books-container').appendChild(createBookElement(book));
+    }
+}
+
+fetchBooksData('datas/books.json')
+    .then(displayBooks);
