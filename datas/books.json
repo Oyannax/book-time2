@@ -43,17 +43,17 @@
     },
     {
         "id": 4,
-        "title": "",
-        "author": "",
-        "genre": "",
-        "year": ,
-        "country": "",
-        "language": "",
-        "publisher": "",
-        "pages": ,
-        "summary": "",
-        "image": "",
-        "link": ""
+        "title": "Simetierre",
+        "author": "Stephen King",
+        "genre": "Horreur",
+        "year": 1983,
+        "country": "États-Unis",
+        "language": "Anglais américain",
+        "publisher": "Lgf",
+        "pages": 636,
+        "summary": "Louis Creed, un jeune médecin de Chicago, vient s'installer avec sa famille à Ludlow, petite bourgade du Maine. Leur voisin, le vieux Jud Crandall, les emmène visiter le pittoresque « simetierre » où des générations d'enfants ont enterré leurs animaux familiers. Mais, au-delà de ce « simetierre », tout au fond de la forêt, se trouvent les terres sacrées des Indiens, lieu interdit qui séduit pourtant par ses monstrueuses promesses. Un drame atroce va bientôt déchirer l'existence des Creed, et l'on se trouve happé dans un suspense cauchemardesque… Simetierre, classé au premier rang des best-sellers mondiaux, avant ça ou Misery, a été adapté au cinéma par Stephen King lui-même et réalisé par Mary Lambert.",
+        "image": "img/simetierre.jpg",
+        "link": "https://www.fnac.com/a1441415/Stephen-King-Simetierre#omnsearchpos=1"
     },
     {
         "id": 5,
